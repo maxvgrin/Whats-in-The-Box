@@ -1,4 +1,4 @@
-<img width="362" height="120" alt="Breinbox met Zittende Kat" src="https://github.com/user-attachments/assets/524d3d7c-9201-4ae9-a0dc-941643c902d0" />
+<img width="362" height="120" src="https://github.com/user-attachments/assets/524d3d7c-9201-4ae9-a0dc-941643c902d0" />
 
 **What’s in the Box?** is a MATLAB toolbox for characterizing the anatomical composition and spatial distribution of single-voxel proton MR spectroscopy acquisitions.
 
