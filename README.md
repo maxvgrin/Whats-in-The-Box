@@ -1,5 +1,4 @@
-<img width="600" height="600" alt="WhatsApp Image 2026-11-17 at 15 28 44" src="https://github.com/user-attachments/assets/728f33cc-7cb3-4f10-9161-12b5926c0a44" />
-# What’s in the Box?
+<img width="200" height="200" alt="WhatsApp Image 2026-11-17 at 15 28 44" src="https://github.com/user-attachments/assets/728f33cc-7cb3-4f10-9161-12b5926c0a44" />
 
 **What’s in the Box?** is a MATLAB toolbox for characterizing the anatomical composition and spatial distribution of single-voxel proton MR spectroscopy acquisitions.
 
