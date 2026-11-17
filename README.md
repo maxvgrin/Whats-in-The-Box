@@ -10,7 +10,7 @@ The toolbox was developed and tested using:
 
 - **MATLAB R2025b**
 - **SPM12 r7771**
-- **Osprey develop branch (~v2.9.x)**
+- **Osprey develop branch (~v2.9.0)**
 - **CAT12** when using the Neuromorphometrics atlas
 
 MATLAB R2020b or newer is expected to support the graphical interface, although the configuration above reflects the environment used during development and testing.
