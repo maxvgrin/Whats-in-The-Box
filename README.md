@@ -28,8 +28,9 @@ For programmatic use, the analysis can be started with:
 results = run_mrs_atlas_composition(cfg);
 ```
 
-If you use this toolbox for your research please cite our paper at: TBD
-
 An example configuration is provided in `example_run.m`.
 
 The toolbox accepts BIDS-organized MRS and corresponding T1-weighted anatomical data, as well as existing Osprey `MRSCont` outputs or Osprey job files. It supports all fileformats that Osprey_Load supports. 
+
+If you use this toolbox for your research please cite our paper at: TBD
+
